@@ -1,5 +1,4 @@
-{
-  "projects": [
+[
     {
       "id": 1,
       "title": "Modern Hero Portfolio",
@@ -37,4 +36,4 @@
       "link": "https://fayannn44.github.io/NiceTrip/"
     }
   ]
-}
+
