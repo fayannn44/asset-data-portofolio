@@ -3,42 +3,42 @@
     {
       "name": "HTML",
       "desc": "Struktur dasar halaman web.",
-      "img": "/assets/html.webp"
+      "img": "https://fayannn44.github.io/asset-data-portofolio/assets/html.webp"
     },
     {
       "name": "CSS",
       "desc": "Styling modern & responsive.",
-      "img": "/assets/css.webp"
+      "img": "https://fayannn44.github.io/asset-data-portofolio/assets/css.webp"
     },
     {
       "name": "JavaScript",
       "desc": "Logic & interaktivitas website.",
-      "img": "/assets/js.webp"
+      "img": "https://fayannn44.github.io/asset-data-portofolio/assets/js.webp"
     },
     {
       "name": "React",
       "desc": "Frontend framework cepat & modular.",
-      "img": "/assets/react.webp"
+      "img": "https://fayannn44.github.io/asset-data-portofolio/assets/react.webp"
     },
     {
       "name": "Tailwind CSS",
       "desc": "Utility-first styling.",
-      "img": "/assets/taiwind.webp"
+      "img": "https://fayannn44.github.io/asset-data-portofolio/assets/taiwind.webp"
     },
     {
       "name": "Framer Motion",
       "desc": "Animasi smooth & sinematik.",
-      "img": "/assets/framer.webp"
+      "img": "https://fayannn44.github.io/asset-data-portofolio/assets/framer.webp"
     },
     {
       "name": "Git",
       "desc": "Version control untuk developer.",
-      "img": "/assets/git.webp"
+      "img": "https://fayannn44.github.io/asset-data-portofolio/assets/git.webp"
     },
     {
       "name": "UI/UX",
       "desc": "Design yang fokus user experience.",
-      "img": "/assets/uiux.webp"
+      "img": "https://fayannn44.github.io/asset-data-portofolio/assets/uiux.webp"
     }
   ]
 

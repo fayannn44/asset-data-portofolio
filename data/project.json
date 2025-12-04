@@ -5,7 +5,7 @@
       "title": "Modern Hero Portfolio",
       "desc": "Landing page personal dengan styling gelap elegan, fokus pada branding dan kesan profesional.",
       "side": "Menggunakan layout modern, tipografi tebal, dan responsivitas penuh.",
-      "image": "../assets/peke.webp",
+      "image": "../https://fayannn44.github.io/asset-data-portofolio/assets/peke.webp",
       "cta": "View Project",
       "link": "https://fayannn44.github.io/websecondary/"
     },
@@ -14,7 +14,7 @@
       "title": "Pokemon Explorer",
       "desc": "Aplikasi pencarian Pokemon yang cepat dan interaktif.",
       "side": "Card dynamic, filter real-time, dan tampilan clean.",
-      "image": "../assets/pokemon.webp",
+      "image": "../https://fayannn44.github.io/asset-data-portofolio/assets/pokemon.webp",
       "cta": "Explore",
       "link": "https://fayannn44.github.io/Pokemon/"
     },
@@ -23,7 +23,7 @@
       "title": "Data Pekerja App",
       "desc": "Aplikasi CRUD ringan untuk memasukkan, mencari, dan mengedit data pekerja.",
       "side": "Clean UI, ada mode gelap, dan user-friendly.",
-      "image": "../assets/tugas.webp",
+      "image": "../https://fayannn44.github.io/asset-data-portofolio/assets/tugas.webp",
       "cta": "See Details",
       "link": "https://fayannn44.github.io/TUGASAKHIR/"
     },
@@ -32,7 +32,7 @@
       "title": "Nice Trip Website",
       "desc": "Website travel dengan visual besar dan layout cinematic.",
       "side": "Hero modern, full image, dan card destinasi elegan.",
-      "image": "../assets/nicetrip.webp",
+      "image": "../https://fayannn44.github.io/asset-data-portofolio/assets/nicetrip.webp",
       "cta": "Open",
       "link": "https://fayannn44.github.io/NiceTrip/"
     }
