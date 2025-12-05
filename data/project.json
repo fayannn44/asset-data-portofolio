@@ -1,40 +1,38 @@
-{
-  "projects": [
-    {
-      "id": 1,
-      "title": "Modern Hero Portfolio",
-      "desc": "Landing page personal dengan styling gelap elegan, fokus pada branding dan kesan profesional.",
-      "side": "Menggunakan layout modern, tipografi tebal, dan responsivitas penuh.",
-      "image": "https://fayannn44.github.io/asset-data-portofolio/assets/peke.webp",
-      "cta": "View Project",
-      "link": "https://fayannn44.github.io/websecondary/"
-    },
-    {
-      "id": 2,
-      "title": "Pokemon Explorer",
-      "desc": "Aplikasi pencarian Pokemon yang cepat dan interaktif.",
-      "side": "Card dynamic, filter real-time, dan tampilan clean.",
-      "image": "https://fayannn44.github.io/asset-data-portofolio/assets/pokemon.webp",
-      "cta": "Explore",
-      "link": "https://fayannn44.github.io/Pokemon/"
-    },
-    {
-      "id": 3,
-      "title": "Data Pekerja App",
-      "desc": "Aplikasi CRUD ringan untuk memasukkan, mencari, dan mengedit data pekerja.",
-      "side": "Clean UI, ada mode gelap, dan user-friendly.",
-      "image": "https://fayannn44.github.io/asset-data-portofolio/assets/tugas.webp",
-      "cta": "See Details",
-      "link": "https://fayannn44.github.io/TUGASAKHIR/"
-    },
-    {
-      "id": 4,
-      "title": "Nice Trip Website",
-      "desc": "Website travel dengan visual besar dan layout cinematic.",
-      "side": "Hero modern, full image, dan card destinasi elegan.",
-      "image": "https://fayannn44.github.io/asset-data-portofolio/assets/nicetrip.webp",
-      "cta": "Open",
-      "link": "https://fayannn44.github.io/NiceTrip/"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Modern Hero Portfolio",
+    "desc": "Landing page personal dengan styling gelap elegan.",
+    "side": "Layout modern, tipografi tebal, dan responsif.",
+    "image": "https://fayannn44.github.io/asset-data-portofolio/assets/peke.webp",
+    "cta": "View Project",
+    "link": "https://fayannn44.github.io/websecondary/"
+  },
+  {
+    "id": 2,
+    "title": "Pokemon Explorer",
+    "desc": "Aplikasi pencarian Pokemon interaktif.",
+    "side": "Card dynamic dan filter cepat.",
+    "image": "https://fayannn44.github.io/asset-data-portofolio/assets/pokemon.webp",
+    "cta": "Explore",
+    "link": "https://fayannn44.github.io/Pokemon/"
+  },
+  {
+    "id": 3,
+    "title": "Data Pekerja App",
+    "desc": "Aplikasi CRUD data pekerja.",
+    "side": "UI clean dan mode gelap.",
+    "image": "https://fayannn44.github.io/asset-data-portofolio/assets/tugas.webp",
+    "cta": "See Details",
+    "link": "https://fayannn44.github.io/TUGASAKHIR/"
+  },
+  {
+    "id": 4,
+    "title": "Nice Trip Website",
+    "desc": "Website travel cinematic modern.",
+    "side": "Hero besar dan card destinasi.",
+    "image": "https://fayannn44.github.io/asset-data-portofolio/assets/nicetrip.webp",
+    "cta": "Open",
+    "link": "https://fayannn44.github.io/NiceTrip/"
+  }
+]
